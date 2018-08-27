@@ -17,6 +17,7 @@ mkdir editor
 cd editor
 wget https://github.com/swagger-api/swagger-editor/archive/master.zip
 unzip master.zip
-mv swagger-editor-master/dist/* .
-rm -rf swagger-editor-master master.zip *.map
+mv swagger-editor-master/dist dist
+mv swagger-editor-master/index.html .
+rm -rf swagger-editor-master master.zip dist/*.map
 ```
