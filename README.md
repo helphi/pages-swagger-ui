@@ -1,7 +1,7 @@
 # swagger-ui on GitHub Pages
 
-- <https://helphi.github.io/pages-swagger-ui/ui/>
-- <https://helphi.github.io/pages-swagger-ui/editor/>
+- <https://helphi.github.io/pages-swagger-ui/ui/index.html>
+- <https://helphi.github.io/pages-swagger-ui/editor/index.html>
 
 ---
 
