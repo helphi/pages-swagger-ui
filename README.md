@@ -1,6 +1,6 @@
 # swagger-ui on GitHub Pages
 
-<https://helphi.github.io/swagger-ui>
+<https://helphi.github.io/pages-swagger-ui/>
 
 ---
 
