@@ -1,6 +1,6 @@
 # swagger-ui on GitHub Pages
 
-- <https://helphi.github.io/pages-swagger-ui/ui/index.html> or <https://helphi.github.io/pages-swagger-ui/ui/index.html?http://YOUR-API.com/swagger.json>
+- <https://helphi.github.io/pages-swagger-ui/ui/index.html> or <https://helphi.github.io/pages-swagger-ui/ui/index.html?https://YOUR-API.com/swagger.json>
 - <https://helphi.github.io/pages-swagger-ui/editor/index.html>
 
 ## scripts
